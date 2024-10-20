@@ -1,6 +1,7 @@
 
 import { useEffect, useState } from "react";
-import Gallery from "../section/gallery/gallery";
+// import Gallery from "../section/gallery/gallery";
+import Gallery from "section/gallery/Gallery"
 import Header from "../section/header/Header";
 import axios from "axios";
 
