@@ -1,5 +1,6 @@
 
-import myimg from "../images/myimg.png"
+import myimg from "../images/myImg.png"
+
 
 function Navbar() {
     return (
